@@ -1,0 +1,8 @@
+Stealth
+
+Created Autumn 2011
+
+Stealth is a 2D Windows game - a top down, simple maze-solving game in which the player controls a character which they must move through the game area to reach an exit without being caught by the enemy characters. Each level is completed when the player goes through the exit. The next level will then become available. Levels increase in complexity as the player progresses. Player health is indicated by the colour of their eyes, changing from green, to yellow, to orange and finally red as the player loses health. Health will regenerate while the player is not taking damage. However, death will result in the player having to restart the level. Stealth was constructed using Visual C++.
+
+The player controls their character using the arrow keys to move forwards and backwards and to rotate left and right. The space-bar is used to fire their weapon. The game can also be paused by pressing the “p” key on the keyboard. The game also has a few menu screens which can be navigated using the mouse to highlight options and left clicking to select.
+
